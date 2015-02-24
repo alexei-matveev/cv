@@ -1,33 +1,153 @@
 ﻿Publications
-1. Uranyl solvation by a reference interaction site model, B. Li, A.V. Matveev, S. Krüger, and N. Rösch, Comp. Theor. Chem. (submitted).
-2. Load balancing by work–stealing in quantum chemistry calculations: application to hybrid density functional methods, A. Nikodem, A.V. Matveev, T.M. Soini, N. Rösch, Int. J. Quantum Chem. 114, 813 (2014).
-3. Advances in the parallelisation of software for quantum chemistry applications, M. Roderus, A. Matveev, H.-J. Bungartz, and N. Rösch, in: Advanced Computing, pp. 119–136, Springer Berlin Heidelberg, (2013).
-4. Scalable properties of metal clusters: a comparative DFT study of ionic-core treatments, R. Marchal, I. Yudanov, A. Matveev, and N. Rösch, Chem. Phys. Lett. 578, 92 (2013).
-5. A high-level Fortran interface to parallel matrix algebra, M. Roderus, A. Matveev, and H.-J. Bungartz, in: Proceedings of the Second International Conference on Computational Science, Engineering and Information Technology, pp. 112–119, (2012).
-6. Efficient two-step procedures for locating transition states of surface reactions, A. Nikodem, A. Matveev, B.-X. Zheng, and N. Rösch, J. Chem. Theory and Comput. 9, 588, (2012)
-7. Improving upon string methods for transition state discovery, H. Chaffey-Millar, A. Nikodem, A. Matveev, S. Krüger, and N. Rösch, J. Chem. Theory and Comput. 8, 777–786, (2012).
-8. Effects of the self-interaction error in Kohn–Sham calculations: a DFT+U case study on penta-aqua uranyl (VI), R. Ramakrishnan, A. Matveev, and N. Rösch, Comp. Theor. Chem. 963, 337, (2011).
-9. Self-interaction artifacts on structural features of uranyl monohydroxide from Kohn–Sham calculations, R. Ramakrishnan, A. Matveev, S. Krüger, and N. Rösch, Theor. Chem. Acc. 130, 361, (2011).
-10. Scheduling parallel eigenvalue computations in a quantum chemistry code, M. Roderus, A. Berariu, H.-J. Bungartz, S. Krüger, A. Matveev, and N. Rösch, in: Euro-Par 2010-Parallel Processing, pp. 113–124, (2010).
-11. The DFT+U method in the linear combination of Gaussian-type orbitals framework: role of 4f orbitals in the bonding of LuF3, R. Ramakrishnan, A. Matveev, and N. Rösch, Chem. Phys. Lett. 468, 158, (2009).
-12. Atomic approximation to the projection on electronic states in the Douglas–Kroll–Hess approach to the relativistic Kohn–Sham method, A. Matveev and N. Rösch, J. Chem. Phys. 128, 244102, (2008).
-13. How the C–O bond breaks during methanol decomposition on nanocrystallites of palladium catalysts, I. Yudanov, A. Matveev, K. Neyman and N. Rösch, J. Am. Chem. Soc. 130, 9342, (2008).
-14. Characterization of optical spectra of interacting systems: application to oxide-supported metal clusters, M. Huix-Rotllant, A. Deka, A. Matveev, S. Bosko, L. Moskaleva, and N. Rösch, Int. J. Quantum Chem. 108, 2978, (2008).
-15. Linear response formalism for the Douglas–Kroll–Hess approach to the Dirac–Kohn–Sham problem: first-and second-order nuclear displacement derivatives of the energy, A. Matveev, V. Nasluzov, and N. Rösch, Int. J. Quantum Chem. 107, 3236, (2007).
-16. Optical spectra of Cu, Ag, and Au monomers and dimers at regular sites and oxygen vacancies of the MgO(001) surface. A systematic time-dependent density functional study using embedded cluster models, S. Bosko, L. Moskaleva, A. Matveev, and N. Rösch, J. Phys. Chem. A, 111, 6870, (2007).
-17. Linear and quadratic response in the Douglas–Kroll–Hess approach to the Dirac–Kohn–Sham problem, A.V. Matveev, N. Rösch, in: Lecture Series on Computer and Computational Sciences, vol. 7, Brill Academic, Leiden (2006), pp. 923-926.
-18. The heat of formation of gaseous PuO22+ from relativistic density functional calculations, L.V. Moskaleva, A.V. Matveev, J. Dengler, and N. Rösch, Phys. Chem. Chem. Phys. 8, 3767-3773 (2006).
-19. The heat of formation of the uranyl dication: theoretical evaluation based on relativistic density functional calculations, L.V. Moskaleva, A.V. Matveev, S. Krüger, and N. Rösch, Chem. Eur. J. 12, 629-634 (2006).
-20. Efficient treatment of the hartree interaction in the relativistic Kohn–Sham problem, A.V. Matveev, S. Majumder, and N. Rösch, J. Chem. Phys. 123, 164104, 1-8 (2005).
-21. Single d-metal atoms on Fs and Fs+ defects of MgO(001): a theoretical study across the periodic table, K.M. Neyman, C. Inntam, A.V. Matveev, V.A. Nasluzov, N. Rösch, J. Am. Chem. Soc. 127, 11652-11660 (2005).
-22. The density functional program ParaGauss for complex systems in chemistry, N. Rösch, S. Krüger, V.A. Nasluzov, A.V. Matveev, in: High Performance Computing in Science and Engineering, Garching 2004, Transactions of the KONWIHR Result Workshop, October 14-15, 2004, Technical University of Munich, Garching, Germany, A. Bode, F. Durst (Hrsg.), Springer, Heidelberg, 2005, pp. 285-296.
-23. Efficient symmetry treatment for the nonrelativistic and relativistic Kohn–Sham problem. The symmetry module of the program ParaGauss. A.V. Matveev, M. Mayer, N. Rösch, Comp. Phys. Comm. 160, 91, (2004).
-24. ParaGauss — a parallel Implementation of the density functional method: spin–orbit interaction in the Douglas–Kroll–Hess approach and a novel two-component treatment of spin-independent interaction terms. A.V. Matveev, Dissertation, Technische Universität München (2003).
-25. Spin–orbit interaction in the Douglas–Kroll approach to relativistic density functional theory: the screened nuclear potential approximation for molecules. S. Majumder, A.V. Matveev, N. Rösch, Chem. Phys. Lett. 382, 186, (2003).
-26. Quantum chemistry with the Douglas–Kroll–Hess approach to relativistic density functional theory: efficient methods for molecules and materials, N. Rösch, A.V. Matveev, V.A. Nasluzov, K.M. Neyman, L.V. Moskaleva, S. Krüger, in: Relativistic Electronic Structure Theory — Applications, P. Schwerdtfeger (Hrsg.), Theoretical and Computational Chemistry Series, Vol. 14, Elsevier, Amsterdam, 2004, S. 656-722.
-27. The electron-electron interaction in the Douglas–Kroll–Hess approach to the Dirac–Kohn–Sham problem. A.V. Matveev and N. Rösch, J. Chem. Phys. 118, 3997, (2003). 
-28. Comparative study of relativistic density functional methods applied to the actinide species AcO2 and AcF6 for Ac = U, Np, M. Garcia–Hernández, C. Lauterbach, S. Krüger, A. Matveev, and N. Rösch, J. Comput. Chem. 23, 834, (2002).
-29. Calculation of electronic g-tensors using a relativistic density functional Douglas–Kroll method. K.M. Neyman, D.I. Ganyushin, A.V. Matveev, V.A. Nasluzov, J. Phys. Chem. A 106, 5022, (2002).
-30. Density functional calculations on small molecules and transition metal carbonyls with revised PBE functionals. A. Matveev, M. Staufer, M. Mayer, and N. Rösch, Int. J. Quantum Chem. 75, 863, (1999).
-31. Adsorption of transition metal atoms on oxygen vacancies and regular sites of the MgO(001) surface. A.V. Matveev, K.M. Neyman, I.V. Yudanov, and N. Rösch, Surf. Sci. 426, 123, (1999).
-32. Density functional studies of M4 clusters (M = Cu, Ag, Ni, Pd) deposited on the regular MgO(001) surface. A.V. Matveev, K.M. Neyman, G. Pacchioni, and N. Rösch, Chem. Phys. Lett. 299, 603, (1999).
+
+1. Uranyl solvation by a reference interaction site model, B. Li,
+A.V. Matveev, S. Krüger, and N. Rösch, Comp. Theor. Chem. (submitted).
+
+2. Load balancing by work–stealing in quantum chemistry calculations:
+application to hybrid density functional methods, A. Nikodem,
+A.V. Matveev, T.M. Soini, N. Rösch, Int. J. Quantum Chem. 114, 813
+(2014).
+
+3. Advances in the parallelisation of software for quantum chemistry
+applications, M. Roderus, A. Matveev, H.-J. Bungartz, and N. Rösch,
+in: Advanced Computing, pp. 119–136, Springer Berlin Heidelberg,
+(2013).
+
+4. Scalable properties of metal clusters: a comparative DFT study of
+ionic-core treatments, R. Marchal, I. Yudanov, A. Matveev, and
+N. Rösch, Chem. Phys. Lett. 578, 92 (2013).
+
+5. A high-level Fortran interface to parallel matrix algebra,
+M. Roderus, A. Matveev, and H.-J. Bungartz, in: Proceedings of the
+Second International Conference on Computational Science, Engineering
+and Information Technology, pp. 112–119, (2012).
+
+6. Efficient two-step procedures for locating transition states of
+surface reactions, A. Nikodem, A. Matveev, B.-X. Zheng, and N. Rösch,
+J. Chem. Theory and Comput. 9, 588, (2012)
+
+7. Improving upon string methods for transition state discovery,
+H. Chaffey-Millar, A. Nikodem, A. Matveev, S. Krüger, and N. Rösch,
+J. Chem. Theory and Comput. 8, 777–786, (2012).
+
+8. Effects of the self-interaction error in Kohn–Sham calculations: a
+DFT+U case study on penta-aqua uranyl (VI), R. Ramakrishnan,
+A. Matveev, and N. Rösch, Comp. Theor. Chem. 963, 337, (2011).
+
+9. Self-interaction artifacts on structural features of uranyl
+monohydroxide from Kohn–Sham calculations, R. Ramakrishnan,
+A. Matveev, S. Krüger, and N. Rösch, Theor. Chem. Acc. 130, 361,
+(2011).
+
+10. Scheduling parallel eigenvalue computations in a quantum chemistry
+code, M. Roderus, A. Berariu, H.-J. Bungartz, S. Krüger, A. Matveev,
+and N. Rösch, in: Euro-Par 2010-Parallel Processing, pp. 113–124,
+(2010).
+
+11. The DFT+U method in the linear combination of Gaussian-type
+orbitals framework: role of 4f orbitals in the bonding of LuF3,
+R. Ramakrishnan, A. Matveev, and N. Rösch, Chem. Phys. Lett. 468, 158,
+(2009).
+
+12. Atomic approximation to the projection on electronic states in the
+Douglas–Kroll–Hess approach to the relativistic Kohn–Sham method,
+A. Matveev and N. Rösch, J. Chem. Phys. 128, 244102, (2008).
+
+13. How the C–O bond breaks during methanol decomposition on
+nanocrystallites of palladium catalysts, I. Yudanov, A. Matveev,
+K. Neyman and N. Rösch, J. Am. Chem. Soc. 130, 9342, (2008).
+
+14. Characterization of optical spectra of interacting systems:
+application to oxide-supported metal clusters, M. Huix-Rotllant,
+A. Deka, A. Matveev, S. Bosko, L. Moskaleva, and N. Rösch,
+Int. J. Quantum Chem. 108, 2978, (2008).
+
+15. Linear response formalism for the Douglas–Kroll–Hess approach to
+the Dirac–Kohn–Sham problem: first-and second-order nuclear
+displacement derivatives of the energy, A. Matveev, V. Nasluzov, and
+N. Rösch, Int. J. Quantum Chem. 107, 3236, (2007).
+
+16. Optical spectra of Cu, Ag, and Au monomers and dimers at regular
+sites and oxygen vacancies of the MgO(001) surface. A systematic
+time-dependent density functional study using embedded cluster models,
+S. Bosko, L. Moskaleva, A. Matveev, and N. Rösch, J. Phys. Chem. A,
+111, 6870, (2007).
+
+17. Linear and quadratic response in the Douglas–Kroll–Hess approach
+to the Dirac–Kohn–Sham problem, A.V. Matveev, N. Rösch, in: Lecture
+Series on Computer and Computational Sciences, vol. 7, Brill Academic,
+Leiden (2006), pp. 923-926.
+
+18. The heat of formation of gaseous PuO22+ from relativistic density
+functional calculations, L.V. Moskaleva, A.V. Matveev, J. Dengler, and
+N. Rösch, Phys. Chem. Chem. Phys. 8, 3767-3773 (2006).
+
+19. The heat of formation of the uranyl dication: theoretical
+evaluation based on relativistic density functional calculations,
+L.V. Moskaleva, A.V. Matveev, S. Krüger, and N. Rösch,
+Chem. Eur. J. 12, 629-634 (2006).
+
+20. Efficient treatment of the hartree interaction in the relativistic
+Kohn–Sham problem, A.V. Matveev, S. Majumder, and N. Rösch,
+J. Chem. Phys. 123, 164104, 1-8 (2005).
+
+21. Single d-metal atoms on Fs and Fs+ defects of MgO(001): a
+theoretical study across the periodic table, K.M. Neyman, C. Inntam,
+A.V. Matveev, V.A. Nasluzov, N. Rösch, J. Am. Chem. Soc. 127,
+11652-11660 (2005).
+
+22. The density functional program ParaGauss for complex systems in
+chemistry, N. Rösch, S. Krüger, V.A. Nasluzov, A.V. Matveev, in: High
+Performance Computing in Science and Engineering, Garching 2004,
+Transactions of the KONWIHR Result Workshop, October 14-15, 2004,
+Technical University of Munich, Garching, Germany, A. Bode, F. Durst
+(Hrsg.), Springer, Heidelberg, 2005, pp. 285-296.
+
+23. Efficient symmetry treatment for the nonrelativistic and
+relativistic Kohn–Sham problem. The symmetry module of the program
+ParaGauss. A.V. Matveev, M. Mayer, N. Rösch, Comp. Phys. Comm. 160,
+91, (2004).
+
+24. ParaGauss — a parallel Implementation of the density functional
+method: spin–orbit interaction in the Douglas–Kroll–Hess approach and
+a novel two-component treatment of spin-independent interaction
+terms. A.V. Matveev, Dissertation, Technische Universität München
+(2003).
+
+25. Spin–orbit interaction in the Douglas–Kroll approach to
+relativistic density functional theory: the screened nuclear potential
+approximation for molecules. S. Majumder, A.V. Matveev, N. Rösch,
+Chem. Phys. Lett. 382, 186, (2003).
+
+26. Quantum chemistry with the Douglas–Kroll–Hess approach to
+relativistic density functional theory: efficient methods for
+molecules and materials, N. Rösch, A.V. Matveev, V.A. Nasluzov,
+K.M. Neyman, L.V. Moskaleva, S. Krüger, in: Relativistic Electronic
+Structure Theory — Applications, P. Schwerdtfeger (Hrsg.), Theoretical
+and Computational Chemistry Series, Vol. 14, Elsevier, Amsterdam,
+2004, S. 656-722.
+
+27. The electron-electron interaction in the Douglas–Kroll–Hess
+approach to the Dirac–Kohn–Sham problem. A.V. Matveev and N. Rösch,
+J. Chem. Phys. 118, 3997, (2003).
+
+28. Comparative study of relativistic density functional methods
+applied to the actinide species AcO2 and AcF6 for Ac = U, Np,
+M. Garcia–Hernández, C. Lauterbach, S. Krüger, A. Matveev, and
+N. Rösch, J. Comput. Chem. 23, 834, (2002).
+
+29. Calculation of electronic g-tensors using a relativistic density
+functional Douglas–Kroll method. K.M. Neyman, D.I. Ganyushin,
+A.V. Matveev, V.A. Nasluzov, J. Phys. Chem. A 106, 5022, (2002).
+
+30. Density functional calculations on small molecules and transition
+metal carbonyls with revised PBE functionals. A. Matveev, M. Staufer,
+M. Mayer, and N. Rösch, Int. J. Quantum Chem. 75, 863, (1999).
+
+31. Adsorption of transition metal atoms on oxygen vacancies and
+regular sites of the MgO(001) surface. A.V. Matveev, K.M. Neyman,
+I.V. Yudanov, and N. Rösch, Surf. Sci. 426, 123, (1999).
+
+32. Density functional studies of M4 clusters (M = Cu, Ag, Ni, Pd)
+deposited on the regular MgO(001) surface. A.V. Matveev, K.M. Neyman,
+G. Pacchioni, and N. Rösch, Chem. Phys. Lett. 299, 603, (1999).
