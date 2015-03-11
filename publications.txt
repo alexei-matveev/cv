@@ -108,24 +108,24 @@ relativistic Kohn–Sham problem. The symmetry module of the program
 ParaGauss. A.V. Matveev, M. Mayer, N. Rösch, Comp. Phys. Comm. 160,
 91, (2004).
 
-24. ParaGauss — a parallel Implementation of the density functional
-method: spin–orbit interaction in the Douglas–Kroll–Hess approach and
-a novel two-component treatment of spin-independent interaction
-terms. A.V. Matveev, Dissertation, Technische Universität München
-(2003).
-
-25. Spin–orbit interaction in the Douglas–Kroll approach to
-relativistic density functional theory: the screened nuclear potential
-approximation for molecules. S. Majumder, A.V. Matveev, N. Rösch,
-Chem. Phys. Lett. 382, 186, (2003).
-
-26. Quantum chemistry with the Douglas–Kroll–Hess approach to
+24. Quantum chemistry with the Douglas–Kroll–Hess approach to
 relativistic density functional theory: efficient methods for
 molecules and materials, N. Rösch, A.V. Matveev, V.A. Nasluzov,
 K.M. Neyman, L.V. Moskaleva, S. Krüger, in: Relativistic Electronic
 Structure Theory — Applications, P. Schwerdtfeger (Hrsg.), Theoretical
 and Computational Chemistry Series, Vol. 14, Elsevier, Amsterdam,
 2004, S. 656-722.
+
+25. ParaGauss — a parallel Implementation of the density functional
+method: spin–orbit interaction in the Douglas–Kroll–Hess approach and
+a novel two-component treatment of spin-independent interaction
+terms. A.V. Matveev, Dissertation, Technische Universität München
+(2003).
+
+26. Spin–orbit interaction in the Douglas–Kroll approach to
+relativistic density functional theory: the screened nuclear potential
+approximation for molecules. S. Majumder, A.V. Matveev, N. Rösch,
+Chem. Phys. Lett. 382, 186, (2003).
 
 27. The electron-electron interaction in the Douglas–Kroll–Hess
 approach to the Dirac–Kohn–Sham problem. A.V. Matveev and N. Rösch,
