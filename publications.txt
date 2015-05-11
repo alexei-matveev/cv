@@ -1,5 +1,9 @@
 ﻿Publications
 
+0. Three-dimensional reference interaction site model solvent combined
+with a quantum mechanical treatment of the solute, B. Li,
+A.V. Matveev, and N. Rösch, (in preparation)
+
 0. Uranyl solvation by a three-dimensional reference interaction site
 model, A.V. Matveev, B. Li, and N. Rösch, J. Chem. Phys. (submitted)
 
