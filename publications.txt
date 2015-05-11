@@ -1,5 +1,8 @@
 ﻿Publications
 
+0. Uranyl solvation by a three-dimensional reference interaction site
+model, A.V. Matveev, B. Li, and N. Rösch, J. Chem. Phys. (submitted)
+
 1. Uranyl solvation by a reference interaction site model, B. Li,
 A.V. Matveev, S. Krüger, and N. Rösch, Comp. Theor. Chem. 1051,
 151-160 (2015) http://dx.doi.org/10.1016/j.comptc.2014.10.032
